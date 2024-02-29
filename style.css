@@ -20,6 +20,7 @@
   display: flex;
   flex-wrap: wrap;
   gap: 23px;
+  height: fit-content;
 }
 
 .product {
